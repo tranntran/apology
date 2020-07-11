@@ -1,0 +1,104 @@
+"","Groups","Tweet","Time","Retweet","Faves","ReplyToStatusID","TweetID","sentiment","method"
+"1",1,"@gabdar @_nadine Sounds like a great time, until next year! <U+0001F41D>",2015-10-27 22:54:04,0,1,"658435785016877056","659141038242668545",5,"AFINN"
+"2",2,"@evamariab Hello Eva, here's a helpful link with information on the safety of our site: https://t.co/SS7lKjRTzf",2015-10-27 22:29:35,0,0,"659134099207102464","659134876420059136",3,"AFINN"
+"3",3,"@joneticspres See you there, we <U+0001F497> Brooklyn! #RunAirbnb",2015-10-27 21:47:34,0,0,"659055344635789312","659124302831341568",NA,NA
+"4",4,"@brentcarcher Running and hosting are pretty similar that way: if you want to be the best you have to go the extra mile <U+0001F3C6> #RunAirbnb",2015-10-27 20:43:02,0,2,"659089272956280832","659108062951772160",5,"AFINN"
+"5",5,"@andybremmen Hi Andrei, we're hosting events to celebrate the boroughs, rsvp for the music and fun: https://t.co/HXxgBvs1a3 #runairbnb",2015-10-27 19:53:07,0,0,"658737283403792384","659095502999453696",7,"AFINN"
+"6",6,"@richarddavid_1 Thanks for coming by! Hope to see you this week: https://t.co/HXxgBvs1a3 #RunAirbnb",2015-10-27 18:49:50,0,0,"659021733287038976","659079577113903104",4,"AFINN"
+"7",7,"Want to join #AirbnbOpen but can't spare 3 days? 1 day pass is here, just for you. https://t.co/C24Rognn9o https://t.co/f1rZyInuo5",2015-10-27 18:27:06,14,23,NA,"659073855848321024",2,"AFINN"
+"8",8,"@graphcart Hey Douglas! Let us look into it please. Could you please send us a link to that listing? Thanks!",2015-10-27 18:22:16,0,1,"659071899608195072","659072639730737152",4,"AFINN"
+"9",9,"@collingridgefox Sounds lovely Sarah! Send us some pictures so we can check out those views!",2015-10-27 15:35:48,0,1,"659030007457685506","659030746531823616",3,"AFINN"
+"10",10,"@emilyc_barnes So much to see! If you need some help exploring Rome, here's our handy neighbourhood guide: https://t.co/9BsRugT7gJ - enjoy!",2015-10-27 13:58:22,0,1,"659005321197785088","659006223409352704",4,"AFINN"
+"11",11,"@emilyc_barnes So pleased you enjoyed Paris Emily! Whereabouts are you planning to explore next??",2015-10-27 13:48:10,0,0,"659003100607463424","659003657338408961",3,"AFINN"
+"12",12,"@jessybell1988 Nice work mum <U+0001F609>",2015-10-27 13:37:36,0,0,"658997244310462464","659000998703312896",3,"AFINN"
+"13",13,"@cgoron Love those autumnal colours Catherine! Thanks for sharing <U+0001F341><U+0001F342>",2015-10-27 13:29:51,0,1,"658986867807952900","658999050239393792",5,"AFINN"
+"14",14,"@gerv055 That place looks amazing! We wish your new phone luck <U+0001F4F1><U+0001F340>",2015-10-27 13:23:32,0,1,"658988590660210688","658997458018697216",8,"AFINN"
+"15",15,"@sweet_corn That IS straight out of a movie set...which movie would you most like it to be in??",2015-10-27 13:20:39,0,0,"658991532616323072","658996733758844928",3,"AFINN"
+"16",16,"@jessybell1988 Mums are the best <U+0001F60A> welcome home Jessica!",2015-10-27 13:18:39,0,1,"658993965467893760","658996231381872641",5,"AFINN"
+"17",17,"@birdland198 Yup - we think it's a pretty good way to start the day <U+0001F604><U+0001F30D>",2015-10-27 12:38:17,0,0,"658970463171809280","658986071292846080",4,"AFINN"
+"18",18,"@alyssafernjones That DOES look amazing! Have a great time exploring Amsterdam Alyssa <U+0001F604>",2015-10-27 12:34:06,0,1,"658982882040500224","658985018841288704",7,"AFINN"
+"19",19,"@thebigfactor That looks stunning Lynan! Such a unique spot. We can't wait to see more of your pictures <U+0001F4F7>",2015-10-27 10:21:50,0,1,"658946124171055104","658951730890149889",4,"AFINN"
+"20",20,"@mirasolgibcus That's what this community is all about! Thank you so much for welcoming the world Mirasol.",2015-10-27 10:09:21,0,1,"658947815343652864","658948591894007808",2,"AFINN"
+"21",21,"@regretscoyote Enjoy your last day Lauren! Wishing you a safe journey to Iceland!",2015-10-27 09:51:24,0,1,"658937686124810240","658944072065941504",4,"AFINN"
+"22",22,"@skybluebint Nice! Sounds perfect. There are definitely worse views to wake up to! Enjoy the rest of your stay <U+0001F31E>",2015-10-27 09:47:00,0,1,"658940431170977792","658942968448073728",5,"AFINN"
+"23",23,"@charlenechiang Sounds perfect Charlene! Wishing you great stays.",2015-10-27 09:33:42,0,1,"658866473075511296","658939621389279232",7,"AFINN"
+"24",24,"@hencespence Decisions, decisions! Where's on your shortlist Spencer??",2015-10-27 09:32:08,0,0,"658901506234695680","658939225795141632",NA,NA
+"25",25,"@skybluebint Wow! Where IS that Kathy?",2015-10-27 09:30:24,0,0,"658923180904595456","658938787968499712",4,"AFINN"
+"26",26,"Join us in Paris at #AirbnbOpen and enjoy gifts and benefits from our partners. https://t.co/WpQ5zaGV29 https://t.co/i5VxN8PloS",2015-10-27 03:22:00,11,80,NA,"658846077349552128",5,"AFINN"
+"27",27,"@theshiman We're going to get this resolved for you Allison, hang tight - we'll be in contact soon.",2015-10-26 04:37:20,1,2,"658501555105214465","658502648350515200",2,"AFINN"
+"28",28,"See @alaindebotton, Cirque du Soleil, and Airbnb CEO/cofounder Brian Chesky at #AirbnbOpen. https://t.co/catMVlBdjp https://t.co/oMHgEs2eo6",2015-10-25 16:30:11,15,35,NA,"658319653509304321",NA,NA
+"29",29,"Paris is calling. 1 week left to register for #AirbnbOpen, our biggest host event of 2015.  https://t.co/lp1IZwF2B2 https://t.co/KtjlPIILr5",2015-10-24 20:17:05,22,54,NA,"658014366864830465",NA,NA
+"30",30,"We apologize for Wednesday’s SF ads. They displayed poor judgment and do not live up to the values and humanity of our global community.",2015-10-22 17:23:12,85,133,NA,"657245833847377921",-3,"AFINN"
+"31",31,"We are launching on Snapchat! Add us at ‘Airbnb’ to see us in motion. https://t.co/Fvz2PaahCw",2015-10-22 00:33:20,19,67,NA,"656991692160045056",NA,NA
+"32",32,"@amykny Nice way to spend your time in style <U+0001F377>",2015-10-21 23:06:10,0,0,"656886416211742720","656969758118690816",3,"AFINN"
+"33",33,"@freddiebj Cozy innovation at it's finest, knit one...purl one...knit one...purl one...looking great!",2015-10-21 22:58:40,1,1,"656952726602035200","656967867573891073",4,"AFINN"
+"34",34,"@meganamey Oh meow, what a cutie <U+0001F63B>",2015-10-21 22:51:21,0,0,"656953092022276096","656966026161209344",NA,NA
+"35",35,"@ar3albert We'd say so too <U+2764><U+FE0F>",2015-10-21 20:56:11,0,1,"656906885715599360","656937046909521921",NA,NA
+"36",36,"Pack your bags. Adventure can be found in a galaxy not so far far away: https://t.co/jq8TtQhAbM
+
+#TheForceAwakens https://t.co/a4w65PsWzS",2015-10-21 18:46:38,20,50,NA,"656904441992318976",2,"AFINN"
+"37",37,"@karahadley We know how it feels Kara! Try searching for Instant Book listings <U+0001F3E1> https://t.co/F5mp0RuNEo",2015-10-21 17:14:54,0,0,"656877883684724736","656881356274814976",NA,NA
+"38",38,"We're kicking off #TCSNYCMarathon week with a celebration in all 5 boroughs! RSVP https://t.co/8xpDL2exIA #RunAirbnb https://t.co/eOh1fOK25B",2015-10-21 16:03:42,0,0,NA,"656863439613091840",NA,NA
+"39",39,"@fannygogh Thanks for alerting us, could you please give us a direct link to this listing, so we can inform our Trust and Safety team.",2015-10-21 13:59:02,0,0,"656827927565352960","656832067179823105",5,"AFINN"
+"40",40,"@reeserubin @mikebene09 This looks gorgeous! Thanks for sharing Eileen. Wishing you a great stay <U+0001F600><U+0001F339>",2015-10-21 12:52:01,0,2,"656813342695161859","656815202101514240",6,"AFINN"
+"41",41,"@theblisstour Coffee is important! Enjoy, Julia <U+2615><U+FE0F>",2015-10-21 12:48:58,0,2,"656813856707190784","656814432270553088",4,"AFINN"
+"42",42,"@samdavidson Enjoy Austin! Here's our neighborhood guide if you need any help exploring: https://t.co/hNoCGyyXb4",2015-10-21 12:00:14,0,3,"656780520408244224","656802170466115585",4,"AFINN"
+"43",43,"@georgina_lester Welcome to the community Georgina. We're so pleased you enjoyed your stay in Paris. Here's to many more in the future!",2015-10-21 10:17:27,0,2,"656772581350076416","656776302909878272",5,"AFINN"
+"44",44,"@klkracher Ok, we're jealous! Sounds heavenly Krista. Have a wonderful rest of your stay! <U+0001F6C0><U+0001F31E>",2015-10-21 10:01:26,1,2,"656768987145986049","656772272993251328",6,"AFINN"
+"45",45,"@icedcinnamon Welcome to the community! Whereabouts are you exploring first??",2015-10-21 10:00:09,0,1,"656770110179246080","656771947653677056",2,"AFINN"
+"46",46,"@tsampierce Welcome to the community! Wishing you a great first stay. Let us know how it goes!",2015-10-21 09:59:33,0,1,"656607266372718592","656771796264493057",6,"AFINN"
+"47",47,"@kts_krazywraps This is what the community is all about Katie - so nice! Here's to many more amazing connections in the future <U+2764><U+FE0F> <U+0001F381>",2015-10-21 09:58:54,0,1,"656624117253324800","656771636373397504",7,"AFINN"
+"48",48,"@daintyflair Wow! That looks delicious Jacelyn. We're glad your hosts are taking such good care of you! <U+0001F375>",2015-10-21 09:57:53,0,1,"656624190724964352","656771380277583872",12,"AFINN"
+"49",49,"@jaylabrosse69 It's looking good Jean-Marc!",2015-10-21 09:56:03,0,1,"656612909808664576","656770918857969664",3,"AFINN"
+"50",50,"@dorianloveschcs Great to hear it Dorian! Where's next on your list to explore??",2015-10-21 09:52:38,0,1,"656630358327345153","656770055888326656",3,"AFINN"
+"51",51,"@samdavidson Sounds pretty good to us Sam! Whereabouts are you visiting?",2015-10-21 09:51:14,0,0,"656663949635485696","656769705437503488",4,"AFINN"
+"52",52,"@mad_rae Welcome to the community Madison! Wishing you the best time. Let us know how you get on!",2015-10-21 09:50:41,0,0,"656666715242283009","656769566299856896",6,"AFINN"
+"53",53,"@msdrjuris We know exactly how you feel!",2015-10-21 09:50:01,0,0,"656681316612636672","656769398502531072",NA,NA
+"54",54,"@angelarenai @elemental_laura Christmas can't come soon enough! The countdown starts now! <U+0001F384>",2015-10-21 09:48:57,0,2,"656698116503138304","656769130998177792",NA,NA
+"55",55,"@heyitspetrag Right?! Those hosts have all the style.",2015-10-21 09:47:11,0,0,"656629408510275584","656768687630872580",NA,NA
+"56",56,"@sammyjdj13 Well that's amazing! Have a great time Samantha. We'll look forward to seeing more of your pictures. Enjoy!",2015-10-21 09:46:29,0,1,"656633406340644864","656768510522216448",9,"AFINN"
+"57",57,"@hotinthistrailr We love your attention to detail! <U+0001F383>",2015-10-21 09:45:29,1,2,"656635183811174400","656768256078950400",3,"AFINN"
+"58",58,"@vonnepat Sounds like you had a great time! Here's to many more local experiences in the future.",2015-10-21 09:43:52,1,0,"656640267018203137","656767850019987456",5,"AFINN"
+"59",59,"@spuffyduds Double yay! Nice work : ) wishing you a great stay in Chicago.",2015-10-21 09:42:22,0,1,"656641478681300992","656767472536854528",7,"AFINN"
+"60",60,"@devincates Ok. Now we want a beach swing! Keep on having the best time Devin! We can't wait to hear more about it <U+0001F334><U+0001F30A>",2015-10-21 09:40:58,0,0,"656692513281961985","656767119468707840",4,"AFINN"
+"61",61,"@iamedwarde Keep warm Edward! And have a great time exploring London <U+0001F1EC><U+0001F1E7>",2015-10-21 09:38:00,0,0,"656721521780502528","656766375613046784",4,"AFINN"
+"62",62,"@claire_ou_nette Looks so peaceful Claire! Here's to many more amazing trips in the future.",2015-10-21 09:35:19,0,1,"656736854163632128","656765698895650816",6,"AFINN"
+"63",63,"@margateairbnb So nice! Thanks so much for being a great host and making the world feel so welcome in Margate.",2015-10-21 09:34:09,1,2,"656745022415577089","656765406464614400",10,"AFINN"
+"64",64,"@gourmanda_me Oh no! We hope you feel better soon - here are some flowers to cheer you up <U+0001F33B><U+0001F339><U+0001F337>",2015-10-21 09:33:21,0,0,"656756674011754496","656765202466254848",5,"AFINN"
+"65",65,"@gabbydario We're excited for you Gabby! Can't wait to hear all about it <U+0001F435><U+0001F600>",2015-10-21 08:51:56,1,1,"656709594736033792","656754779528560640",3,"AFINN"
+"66",66,"@itsmealison Two birds of a feather, stay together <U+0001F426>",2015-10-21 00:12:33,0,2,"656621059102351360","656624072797868032",NA,NA
+"67",67,"@cig_regret That's a password to live by, have a great stay with your host <U+0001F603>",2015-10-20 23:36:52,0,0,"656608038741266436","656615094877560832",3,"AFINN"
+"68",68,"@hyudes We can't wait to see you at the finish line <U+0001F45F> #11days",2015-10-20 23:07:37,0,1,"656299368367202304","656607732783587328",NA,NA
+"69",69,"@fixitup2 What a cool way to go the extra mile and make your guests feel welcome! Does the listing include drinkable coffee as well?",2015-10-20 21:32:45,1,3,"656234849120837632","656583857634955266",3,"AFINN"
+"70",70,"@kristiemaewolfe That looks like a great place to start off an adventure.",2015-10-20 21:29:25,0,2,"656549819255619584","656583019675914240",7,"AFINN"
+"71",71,"@simondlr Let us know if we can help Simon! DM us the email you use to login to Airbnb",2015-10-20 21:18:51,0,0,"656579468392271872","656580361078611968",2,"AFINN"
+"72",72,"@douglas5102 Yes it does!",2015-10-20 21:16:36,0,0,"655447959220461568","656579794394595328",1,"AFINN"
+"73",73,"@megadee10 Hi Maeghan, we're sorry to hear that! Have you talked to your host? You're welcome to DM us more info and reservation code.",2015-10-20 21:14:56,0,0,"656577132034834432","656579375278723072",1,"AFINN"
+"74",74,"@shelbydelay Nope - guilty!",2015-10-20 15:39:53,0,1,"656494251866394626","656495057441288193",-3,"AFINN"
+"75",75,"@onionhaseyo We can't take any credit for that amazing view! <U+0001F305> Wishing you a great rest of your stay!",2015-10-20 15:26:50,0,0,"656464401155936256","656491775423553536",8,"AFINN"
+"76",76,"@brenberryblast Welcome to the community Bren! Here's to many more amazing experiences in the future <U+0001F600>",2015-10-20 15:15:21,0,1,"656485790940205056","656488883346120705",6,"AFINN"
+"77",77,"@victori44021642 Welcome to the community Victoria! Wishing you a great stay in Portsmouth.",2015-10-20 15:11:17,0,1,"656485208057860096","656487858916732929",6,"AFINN"
+"78",78,"@brenberryblast So cute! <U+0001F60D> it's those little personal touches that make it feel like home <U+0001F3E0>",2015-10-20 15:01:46,0,0,"656481543746011136","656485463549681664",4,"AFINN"
+"79",79,"@lepamplemousse_ *pauses* Agreed - it sounds like your host has all the style!",2015-10-20 13:49:13,0,2,"656464320944087040","656467206306463745",3,"AFINN"
+"80",80,"@trulymadly7 Welcome to the community! Wishing you and the kids a great stay. We can't wait to hear all about it : )",2015-10-20 12:59:45,0,1,"656437219708768256","656454757343735808",6,"AFINN"
+"81",81,"@mikesbloggity Music to our ears Mike! We <U+2764><U+FE0F> this community!",2015-10-20 12:58:39,0,1,"656439797347692544","656454480662298624",NA,NA
+"82",82,"@katiesherdley1 Amazing! Mum's are the best <U+0001F60A>  Wishing you a brilliant stay in Amsterdam. Let us know how you get on! <U+0001F1F3><U+0001F1F1>",2015-10-20 12:57:43,0,0,"656449014020362240","656454248956350464",12,"AFINN"
+"83",83,"@katiesherdley1 Right?! Whereabouts are you thinking of exploring Katie?",2015-10-20 12:35:53,0,0,"656446466697863168","656448754376134656",NA,NA
+"84",84,"@mikesbloggity So pleased to hear you felt so at home Mike! Here's to many more great stays in the future.",2015-10-20 11:52:13,0,0,"656437248980815872","656437762040725505",6,"AFINN"
+"85",85,"@lynettep You can't beat hosts' local knowledge to find the best spots! Buon appetito : )",2015-10-20 11:47:11,0,0,"656428265075298304","656436496849858560",3,"AFINN"
+"86",86,"@laurenlkeim Sounds perfect - let us know where you decide on! Happy hunting <U+0001F600>",2015-10-20 11:40:33,0,0,"656432671246163968","656434827676250112",6,"AFINN"
+"87",87,"@laurenlkeim Great to hear it! Here's to many more in the future <U+0001F64C>",2015-10-20 11:06:31,0,0,"656413788044947456","656426264329363456",3,"AFINN"
+"88",88,"@kweischadle So pleased you found a little piece of home Kristina! And you are rocking those socks by the way <U+0001F64C><U+0001F463>",2015-10-20 10:50:45,0,1,"656213411403988992","656422295423053824",3,"AFINN"
+"89",89,"@natilive_ That refrigerator is ENORMOUS!",2015-10-20 10:06:23,0,0,"656369447951814656","656411129003057152",NA,NA
+"90",90,"@laurenlkeim Looks super cosy Lauren!",2015-10-20 10:04:47,0,0,"656409647889424384","656410727201308672",3,"AFINN"
+"91",91,"@jennphizzle Accio FUN! Have a magical day Jenn <U+2728><U+0001F409>",2015-10-20 09:59:20,0,1,"656396007454982144","656409357018669056",4,"AFINN"
+"92",92,"@magrahn @scholasarmenti Cheers Magdalena! <U+0001F377>Here's to many more great guests, and wine, in the future!",2015-10-20 09:37:24,0,1,"656276335921405952","656403835410370560",5,"AFINN"
+"93",93,"@papabighouse We're excited for you Matthew! Can't wait to hear all about it. Enjoy!",2015-10-20 09:23:53,0,1,"656375901429637120","656400436207882240",5,"AFINN"
+"94",94,"@jov_stankovic Great to host you Jovana! Make yourself at home : )",2015-10-20 09:22:26,0,0,"656399445223972864","656400070603120641",3,"AFINN"
+"95",95,"@bojowbebeh Happy anniversary Barbra! Thanks for being part of this amazing community! Here's to 4 more years and many more great stays.",2015-10-20 09:04:07,0,1,"656280422683316224","656395461046181888",12,"AFINN"
+"96",96,"@kakp We don't think so! Here's to many more stars in the future Kristine <U+2B50><U+FE0F> thanks for making your guests feel so welcome!",2015-10-20 09:01:07,0,1,"656299787076005888","656394705312313347",4,"AFINN"
+"97",97,"@annedoli Great to hear it Anne! Whereabouts were you exploring?",2015-10-20 08:59:17,0,0,"656340457190850560","656394243188092929",3,"AFINN"
+"98",98,"@deanofthesouth Hi Dom. Yes! Find out all about the contest in the house rules section of the entry page. Good luck if you've entered!",2015-10-20 08:56:34,0,0,"656253415450918912","656393561466871809",7,"AFINN"
+"99",99,"@sforman This is music to our ears Seth! That's what this community is all about. Wishing you many more great experiences. Enjoy breakfast!",2015-10-20 08:43:51,0,0,"656262591250079744","656390359593930752",6,"AFINN"
+"100",100,"@devincates No problem Devin! Looks pretty heavenly to us - enjoy that all important hammock time!",2015-10-20 08:38:27,0,1,"656315103080394752","656388999058190336",6,"AFINN"
+"101",101,"@stefh_ Distracting isn't it??",2015-10-20 08:36:28,0,0,"656337700555898880","656388501508870144",NA,NA
